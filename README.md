@@ -1,5 +1,5 @@
 # Prework Study Guide
-![alt text](prework-study-guide/assets/screenshotpage.png)
+![alt text](/assets/screenshotpage.png)
 
 ## Description
 This Prework Study Guide project was created for students enrolled in the 16 Week Front End Web Development Bootcamp. The webpage provides students with notes from the Prework Module, and allows them to easily find and read the information. 
@@ -19,7 +19,7 @@ To access the ChromeDevTools console on Windows press control+shift+I or alterna
 
 The console should open up beside or below the webpage in your browser. You will be able to see the list of all topics from the Prework Module alongside a recommendation on which one to study first. If you've opened the console correctly it will look like the image below, the only difference may be which topic is being reccommended to you. 
 
-![alt text](prework-study-guide/assets/screenshotconsole.png)
+![alt text](/assets/screenshotconsole.png)
 
 ## Credits
 N/A
